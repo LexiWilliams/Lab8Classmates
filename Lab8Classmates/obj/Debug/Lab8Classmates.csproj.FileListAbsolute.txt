@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\bin\Debug\Lab8Classmates.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\bin\Debug\Lab8Classmates.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\bin\Debug\Lab8Classmates.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\obj\Debug\Lab8Classmates.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\obj\Debug\Lab8Classmates.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\obj\Debug\Lab8Classmates.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab8Classmates\Lab8Classmates\obj\Debug\Lab8Classmates.pdb
